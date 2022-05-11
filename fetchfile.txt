@@ -8,3 +8,9 @@ Fetch cmd
 six
 seven
 eight
+
+pull cmd
+nine
+ten
+eleven
+twelve
