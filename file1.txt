@@ -1,9 +1,9 @@
-<<<<<<< HEAD
-c++
-java
-python
-html
-=======
+In master branch
+one
+two
+three
+four
+five
 
-C programming
->>>>>>> branch1
+
+
