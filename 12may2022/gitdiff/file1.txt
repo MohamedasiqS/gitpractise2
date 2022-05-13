@@ -11,3 +11,11 @@ four
 five
 
 six
+
+//git diff --staged
+
+seven
+
+eight
+
+nine
