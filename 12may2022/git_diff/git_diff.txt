@@ -1,0 +1,10 @@
+Apple
+Ball
+Cat
+Dog
+Elephant
+Flower
+Giraffe
+Horse
+jug
+king
